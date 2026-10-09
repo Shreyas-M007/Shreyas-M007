@@ -23,31 +23,22 @@
 ### 👨‍💻 About Me
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <p>
-        I'm a sophomore studying <b>Artificial Intelligence & Machine Learning</b> at <b>B.M.S. College of Engineering (BMSCE)</b>, Bengaluru. Passionate about exploring machine learning algorithms, modern web applications, and building computational 3D experiences.
-      </p>
-      <br/>
-      <b>🔭 Highlights of what I do:</b>
-      <ul>
-        <li>🌾 <b>Market Intelligence:</b> Developing <a href="https://github.com/Shreyas-M007/Agrimate">AgriMate</a> for small & marginal farmers.</li>
-        <li>⚖️ <b>Audit Systems:</b> Building <a href="https://github.com/Shreyas-M007/paarakhmetric">PaarakhMetric</a> with Gemini Vision OCR & Firebase.</li>
-        <li>🚁 <b>3D Simulations:</b> Designing aerodynamic physics in <a href="https://github.com/Shreyas-M007/Drone-Aero-Lab">Drone Aero Lab</a>.</li>
-        <li>🤝 <b>Civic Tech:</b> Architecting public scheme discovery on <a href="https://github.com/Shreyas-M007/Jan-Sathi">Jan-Sathi</a>.</li>
-        <li>📚 <b>Python Tooling:</b> Built <a href="https://github.com/Shreyas-M007/library-management-system">Library Management System</a> using Streamlit.</li>
-      </ul>
-      <br/>
-      <p>
-        ⚡ <b>Interests & Hobbies:</b> Trail exploring, road biking, and astrophotography / stargazing.
-      </p>
-    </td>
-    <td valign="middle" align="center" width="35%">
-      <img alt="Coding Animation" width="300px" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-    </td>
-  </tr>
-</table>
+<p>
+  I'm a sophomore studying <b>Artificial Intelligence & Machine Learning</b> at <b>B.M.S. College of Engineering (BMSCE)</b>, Bengaluru. Passionate about exploring machine learning algorithms, modern web applications, and building computational 3D experiences.
+</p>
+
+<b>🔭 Highlights of what I do:</b>
+<ul>
+  <li>🌾 <b>Market Intelligence:</b> Developing <a href="https://github.com/Shreyas-M007/Agrimate">AgriMate</a> for small & marginal farmers.</li>
+  <li>⚖️ <b>Audit Systems:</b> Building <a href="https://github.com/Shreyas-M007/paarakhmetric">PaarakhMetric</a> with Gemini Vision OCR & Firebase.</li>
+  <li>🚁 <b>3D Simulations:</b> Designing aerodynamic physics in <a href="https://github.com/Shreyas-M007/Drone-Aero-Lab">Drone Aero Lab</a>.</li>
+  <li>🤝 <b>Civic Tech:</b> Architecting public scheme discovery on <a href="https://github.com/Shreyas-M007/Jan-Sathi">Jan-Sathi</a>.</li>
+  <li>📚 <b>Python Tooling:</b> Built <a href="https://github.com/Shreyas-M007/library-management-system">Library Management System</a> using Streamlit.</li>
+</ul>
+
+<p>
+  ⚡ <b>Interests & Hobbies:</b> Trail exploring, road biking, and astrophotography / stargazing.
+</p>
 
 ### 📜 Verified Professional Certifications
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
