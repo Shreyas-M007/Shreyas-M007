@@ -8,7 +8,7 @@
 
 <!-- Dynamic Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Sophomore+AI+%26+ML+Student+%40+BMSCE;Passionate+about+Machine+Learning+%26+Software;Building+AgriMate%2C+PaarakhMetric+%26+Drone+Lab;Exploring%2C+learning%2C+and+shipping+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Sophomore+AI+%26+ML+Student+%40+BMSCE;Passionate+about+Machine+Learning+%26+Software;Exploring%2C+learning%2C+and+shipping+projects." alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
