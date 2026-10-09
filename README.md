@@ -21,7 +21,7 @@
 </div>
 
 ### 👨‍💻 About Me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
 </table>
 
 ### 📜 Verified Professional Certifications
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
   <a href="https://learn.microsoft.com/api/credentials/share/en-in/ShreyasMChanabasannavar-1139/C067896C469AA3CD?sharingId=827D09758FB984BC">
@@ -69,7 +69,7 @@
 </p>
 
 ### 🛠️ Technical Stack & Frameworks
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 #### 🚀 Programming Languages
 <p align="left">
@@ -118,7 +118,7 @@
 </p>
 
 ### 🚀 Featured Projects
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <table>
   <tr>
@@ -180,7 +180,7 @@
 </table>
 
 ### 📊 GitHub Activity & Metrics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <div align="center">
   <table border="0">
@@ -206,7 +206,7 @@
 </div>
 
 ### 📫 Let's Connect
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
   <a href="https://github.com/Shreyas-M007">
