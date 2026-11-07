@@ -20,7 +20,7 @@
   </picture>
 </div>
 
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p>
@@ -40,7 +40,7 @@
   ⚡ <b>Interests & Hobbies:</b> Trail exploring, road biking, and astrophotography / stargazing.
 </p>
 
-### 📜 Verified Professional Certifications
+<h2 align="center">📜 Verified Professional Certifications</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
@@ -65,10 +65,10 @@
   </a>
 </p>
 
-### 🛠️ Technical Stack & Frameworks
+<h2 align="center">🛠️ Technical Stack & Frameworks</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
-#### 🚀 Programming Languages
+<h4 align="center">🚀 Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🤖 AI, Machine Learning & Deep Learning
+<h4 align="center">🤖 AI, Machine Learning & Deep Learning</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-#### 🌐 Web Development & 3D Graphics
+<h4 align="center">🌐 Web Development & 3D Graphics</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/REACT%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -97,13 +97,13 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
 </p>
 
-#### 💾 Databases & Storage
+<h4 align="center">💾 Databases & Storage</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/FIREBASE%20FIRESTORE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
-#### 📦 Cloud, MLOps & Developer Tools
+<h4 align="center">📦 Cloud, MLOps & Developer Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -114,7 +114,7 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <table>
@@ -183,7 +183,7 @@
   </a>
 </div>
 
-### 📫 Let's Connect
+<h2 align="center">📫 Let's Connect</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
