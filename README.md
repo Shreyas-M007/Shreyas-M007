@@ -175,7 +175,7 @@
     </td>
   </tr>
 </table>
-</br>
+<br/>
 
   <a href="https://github.com/Shreyas-M007">
     <img src="https://streak-stats.demolab.com?user=Shreyas-M007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
