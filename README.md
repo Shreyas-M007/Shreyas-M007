@@ -175,27 +175,7 @@
     </td>
   </tr>
 </table>
-
-### 📊 GitHub Activity & Metrics
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Shreyas-M007">
-          <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-M007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Shreyas-M007">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-M007&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+</br>
 
   <a href="https://github.com/Shreyas-M007">
     <img src="https://streak-stats.demolab.com?user=Shreyas-M007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
