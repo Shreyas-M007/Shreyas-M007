@@ -69,7 +69,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 #### 🚀 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -80,7 +80,7 @@
 </p>
 
 #### 🤖 AI, Machine Learning & Deep Learning
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
@@ -89,7 +89,7 @@
 </p>
 
 #### 🌐 Web Development & 3D Graphics
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/REACT%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -98,13 +98,13 @@
 </p>
 
 #### 💾 Databases & Storage
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/FIREBASE%20FIRESTORE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Firestore" />
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
 </p>
 
 #### 📦 Cloud, MLOps & Developer Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -177,6 +177,7 @@
 </table>
 <br/>
 
+<div align="center">
   <a href="https://github.com/Shreyas-M007">
     <img src="https://streak-stats.demolab.com?user=Shreyas-M007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
