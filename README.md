@@ -20,7 +20,7 @@
   </picture>
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h3 align="center">👨‍💻 About Me</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p>
@@ -40,7 +40,7 @@
   ⚡ <b>Interests & Hobbies:</b> Trail exploring, road biking, and astrophotography / stargazing.
 </p>
 
-<h2 align="center">📜 Verified Professional Certifications</h2>
+<h3 align="center">📜 Verified Professional Certifications</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
@@ -65,7 +65,7 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ Technical Stack & Frameworks</h2>
+<h3 align="center">🛠️ Technical Stack & Frameworks</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <h4 align="center">🚀 Programming Languages</h4>
@@ -183,7 +183,7 @@
   </a>
 </div>
 
-<h2 align="center">📫 Let's Connect</h2>
+<h2 align="center" style="border-bottom: none;">📫 Let's Connect</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider" />
 
 <p align="center">
